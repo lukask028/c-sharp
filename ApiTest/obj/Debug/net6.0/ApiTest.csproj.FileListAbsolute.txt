@@ -1,0 +1,17 @@
+D:\Programação\Programação\Cursos\Source api\ApiTest\obj\Debug\net6.0\ApiTest.csproj.AssemblyReference.cache
+D:\Programação\Programação\Cursos\Source api\ApiTest\obj\Debug\net6.0\ApiTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Programação\Cursos\Source api\ApiTest\obj\Debug\net6.0\ApiTest.AssemblyInfoInputs.cache
+D:\Programação\Programação\Cursos\Source api\ApiTest\obj\Debug\net6.0\ApiTest.AssemblyInfo.cs
+D:\Programação\Programação\Cursos\Source api\ApiTest\obj\Debug\net6.0\ApiTest.csproj.CoreCompileInputs.cache
+D:\Programação\Programação\Cursos\Source api\ApiTest\bin\Debug\net6.0\ApiTest.exe
+D:\Programação\Programação\Cursos\Source api\ApiTest\bin\Debug\net6.0\ApiTest.deps.json
+D:\Programação\Programação\Cursos\Source api\ApiTest\bin\Debug\net6.0\ApiTest.runtimeconfig.json
+D:\Programação\Programação\Cursos\Source api\ApiTest\bin\Debug\net6.0\ApiTest.dll
+D:\Programação\Programação\Cursos\Source api\ApiTest\bin\Debug\net6.0\ApiTest.pdb
+D:\Programação\Programação\Cursos\Source api\ApiTest\obj\Debug\net6.0\ApiTest.dll
+D:\Programação\Programação\Cursos\Source api\ApiTest\obj\Debug\net6.0\refint\ApiTest.dll
+D:\Programação\Programação\Cursos\Source api\ApiTest\obj\Debug\net6.0\ApiTest.pdb
+D:\Programação\Programação\Cursos\Source api\ApiTest\obj\Debug\net6.0\ApiTest.genruntimeconfig.cache
+D:\Programação\Programação\Cursos\Source api\ApiTest\obj\Debug\net6.0\ref\ApiTest.dll
+D:\Programação\Programação\Cursos\Source api\ApiTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Programação\Programação\Cursos\Source api\ApiTest\obj\Debug\net6.0\ApiTest.csproj.CopyComplete
