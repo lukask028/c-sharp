@@ -12,6 +12,6 @@ Consumindo api
 
 Retornando nomes, e emails da api
 
-![image](https://github.com/lukask028/c-sharp/assets/54475600/e4baa850-c073-4b53-9755-ec068ac64b99)
+![image](https://github.com/lukask028/c-sharp/assets/54475600/d84d8804-7898-46a6-937c-bb08480abef4)
 
 
