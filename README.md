@@ -11,7 +11,9 @@ Consumindo api
 
 
 Foi o usado o site : https://app.quicktype.io
+
 Para transformar os rótulos dos dados json para as classes 
+
 Classe User 
 
 ![image](https://github.com/lukask028/c-sharp/assets/54475600/f36c6cae-b3b3-4b8d-a785-67036e3e4398)
