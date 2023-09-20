@@ -7,7 +7,8 @@ Transforma os dados de retorno da api, em json, através do módulo "newtonsoft.
 
 Consumindo api 
 
-![image](https://github.com/lukask028/c-sharp/assets/54475600/4f061ade-e73d-464c-b2d6-fdbd09a08364)
+![image](https://github.com/lukask028/c-sharp/assets/54475600/d0ff39c0-e007-4297-92b1-0be3bbb8728d)
+
 
 
 Foi o usado o site : https://app.quicktype.io
